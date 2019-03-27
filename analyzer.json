@@ -2,8 +2,8 @@
     "analyzer_name": "ai4se/r2c_git_mine",
     "author_name": "Suvodeep Majumder",
     "author_email": "Suvodeep.Majumder90@gmail.com",
-    "version": "0.0.1",
-    "spec_version": "1.2.0",
+    "version": "0.0.2",
+    "spec_version": "1.1.0",
     "dependencies": {
         "public/source-code": "*"
     },
